@@ -1,6 +1,6 @@
 Hi, I’m Sera
 
-When I am not coding you will find me: 🍫, 🌍, 🧩  
+When I am not coding you will find me: 🍫, 🌍, 🧩, ⚽️, 👠 
 
 🌱 I’m currently learning React
 
