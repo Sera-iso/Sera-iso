@@ -1,11 +1,10 @@
-👋 Hi, I’m Sera
-💻 When I am not coding you will find me: 
-  🍫 Eating Nutella (or any type of chocolate really...)
-  🌎 Travelling with my ❤️ (when pandemic is over... #StaySafe)
-  🧩 Solving puzzles (2000 pieces, crosswords, sudoku, ... any type of puzzle)
-  ⚽️ Playing table kicker (I like to think I am good at it)
-🌱 I’m currently learning Javascript and React
-📫 How to reach me: codewithsera on IG
+Hi, I’m Sera
+
+When I am not coding you will find me: 🍫, 🌍, 🧩  
+
+🌱 I’m currently learning React
+
+📫 You can follow my coding journey on codewithsera on IG
 
 <!---
 Sera-iso/Sera-iso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
